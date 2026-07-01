@@ -11,10 +11,12 @@ Please add the paper you choose each week before the meeting.
 Please add your selected paper to the table above using the following format:
 
 ```markdown
+
 | YYYY-MM-DD | Your Name | Paper Title | Venue / Year | [Paper](URL) | Brief notes |
 
+```
 
-## Paper List
+##  Paper List
 
 | Date | Presenter | Paper Title | Venue / Year | Link | Notes |
 |---|---|---|---|---|---|
